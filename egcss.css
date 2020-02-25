@@ -1,0 +1,120 @@
+
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: powderblue;	
+	width: 100%;
+	position: fixed;
+	top:0;
+	left:0;
+	height: 51px;
+	background:linen!important;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+	border-color:black!important;
+}
+
+li a
+{
+	display: block;
+	padding:15px 20px;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	font-family: fantasy;
+}
+li a:hover{
+	background: turquoise;
+	color: #f4511e;
+}
+.headingabout{
+	font-family: 'Galada', cursive;	
+	font-size: 40;
+	color: white;
+}
+.about{
+	padding: 25px;
+	background-color: #333;
+
+}
+.aboutbody{
+	margin-top:80px;
+	font-family: 'Trade Winds';
+	color: white;
+	text-shadow: 2px 2px #0000FF;	
+}
+
+
+iframe{
+	height: 1000px;
+	width: 100%;
+	margin-top: 35px;
+	border:none;
+	scroll-behavior: smooth;
+}
+.iframe{
+	margin-top: 80px;
+}
+th,td{
+	padding: 40px;
+	border:5px solid rgb(0,0,0);
+	text-align: center;
+	font-family: 'Lemonada', cursive;
+	font-size: 30;
+	color: #000000;
+}
+table{
+	border-collapse: collapse;
+}
+.tablehead{
+	background-color:linen;
+}
+tr:hover{
+	background-color: powderblue;
+
+}
+.heading{
+	margin-top:180px;
+	font-family: Acme;	
+	font-size: 70;
+	color:#D61590;	
+}
+.sub{
+font-family: Comic Sans MS ;
+font-weight: 30%;
+color: white;
+font-size:20;
+}
+.logo{
+	height: 51px;
+}
+.bar{
+	width:70%;
+}
+.li{
+	float: right;
+}
+.para{
+	color: black;
+	font-size: 20;
+}
+.fa-map-marker{
+	color: black;
+}
+.bio{
+	color: white;
+	font-family: Akronim;
+	font-size: 34;
+}
+.map{
+	font-family: 'Trade Winds';
+	color:black;
+	font-size: 40;
+}
+.acad{
+	font-family: Lobster;
+	color:black;
+	font-size: 40;
+}
